@@ -1,6 +1,6 @@
 Cloning an Oracle Database home from one virtual machine (VM) to another is a practical way to replicate the database software environment without going through the full installation process again. Here's how you can approach this:
 
-### Steps to Clone Oracle Database Home:
+# Steps to Clone Oracle Database Home:
 
 #### 1. **Prepare the Source VM:**
    - **Stop the Oracle Database services**: Before copying, stop the database and related services to avoid any corruption during the cloning process.
